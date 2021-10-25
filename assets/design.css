@@ -1,6 +1,11 @@
-.überschrift {
+html {
+    background-color: black;
+}
+
+.überschrift h1{
     text-decoration: solid;
     text-align: center;
+    color: white;
 
 }
 
