@@ -18,6 +18,7 @@ body{
     position: fixed;
     top: 0;
     width: 100%;
+    background-image: url(./bilder/bg2);
 }
 
 .menu a {
