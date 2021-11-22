@@ -121,6 +121,8 @@ a .menu .spaceholder {
     height: 100%;
     padding: 80px 20px;
     transition: .4s ease;
+    background-image: url(./bilder/background.png);
+    background-size: 100%;
 }
 
 .seite h1 {
