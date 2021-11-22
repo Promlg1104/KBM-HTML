@@ -133,6 +133,21 @@ a .menu .spaceholder {
     padding: 30px 0;
 }
 
+.signIn {
+    position: fixed;
+    top: 20px;
+    right: 20px;
+    appearance: none;
+    -webkit-appearance : none;
+    -moz-appearance : none;
+    -o-appearance : none;
+    width: 70px;
+    height: 35px;
+    background-image: url(./bilder/SignIn_Button.jpg);
+    border-radius: 22px;
+    cursor: pointer;
+    outline: none;
+}
 
 #dark_mode {
     position: fixed;
