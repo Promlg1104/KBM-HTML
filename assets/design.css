@@ -72,7 +72,7 @@ body{
     display: inline-block;
     cursor: pointer;
     text-decoration: none;
-    color: rgb(138,43,226);
+    color: #fff;
     border: rgb(138,43,226) 0.125em solid;
     padding: 0.125em 0.5em;
     margin-left: 0.85em;
@@ -109,7 +109,7 @@ body{
 
 .neon-button:hover,
 .neon-button:focus {
-    color: rgb(138,43,226);
+    color: #fff;
     text-shadow: none;
 }
 
