@@ -29,21 +29,27 @@ body{
     position: fixed;
     top: 0;
     width: 100%;
-    height: 5rem;
+    height: 7rem;
     background: transparent;
     place-items: center;
     padding-right: 10rem;
 }
 
-
-.menu a {
+.menu a{
     float: left;
+    height: 70%;
     display: block;
     color: #f2f2f2;
     text-align: center;
     padding: 25px 16px;
     text-decoration: none;
     transition: ease 0.3s;
+}
+
+.logo {
+    position: center;
+    margin-left: 30%;
+    
 }
 
 .neon-button {
@@ -124,7 +130,7 @@ a .menu .spaceholder {
     padding: 80px 20px;
     transition: .4s ease;
     background-image: url(./bilder/background.png);
-    background-size: 100%;
+    background-size: 100%;    
 }
 
 .seite section {
@@ -277,6 +283,7 @@ a .menu .spaceholder {
 }
 
 .signIn {
+    margin: auto;
     font-size: 1rem;
     display: inline-block;
     cursor: pointer;
@@ -290,6 +297,4 @@ a .menu .spaceholder {
     border-radius: 0.25em;
     text-shadow: 0 0 0.125em hsl(0 0% 100% / 0.3), 0 0 0.45em currentColor;
     box-shadow: inset 0 0 0.5em 0 var(--clr-neon), 0 0 0.5em 0 var(--clr-neon);
-    
-    
 }
