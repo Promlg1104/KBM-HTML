@@ -43,3 +43,8 @@ body {
     cursor: pointer;
     transition: all 0.5s ease-in-out;
 }
+
+.logo {
+    width: fit-content;
+    height: fit-content;
+}
