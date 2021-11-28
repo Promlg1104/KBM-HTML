@@ -1,3 +1,7 @@
+html {
+    scroll-behavior: smooth;
+}
+
 *,
 *::before,
 *::after {
@@ -46,25 +50,7 @@ body{
     color: #f2f2f2;
 }
 
-#top {
-    position: fixed;
-    bottom: 1.2rem;
-    float: right;
-    right: 18.5%;
-    left: 95%;
-    max-width: 75px;
-    width: 100%;
-    font-size: 1.3rem;
-    border: rgb(138,43,226);
-    background-color: #808080;
-    padding: .5px;
-    border-radius: 4px;
-}
 
-#top:hover {
-    background-color: #f2f200;
-    cursor: pointer;
-}
 
 .neon-button {
     font-size: 1rem;

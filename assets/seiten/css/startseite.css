@@ -1,0 +1,28 @@
+#top {
+    position: fixed;
+    bottom: 1.2rem;
+    float: right;
+    right: 18.5%;
+    left: 95%;
+    max-width: 75px;
+    width: 100%;
+    font-size: 1.3rem;
+    border: rgb(138,43,226);
+    background-color: #808080;
+    padding: .5px;
+    border-radius: 4px;
+}
+
+#top:hover {
+    background-color: #f2f200;
+    cursor: pointer;
+}
+
+#scroll-down {
+    margin-top: 95%;
+}
+
+#content {
+    margin-top: 100%;
+    background-color: #121212;
+}
