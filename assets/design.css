@@ -30,7 +30,8 @@ body{
     width: 100%;
     height: 8rem;
     background: transparent;
-    padding-right: 10rem;
+    padding-right: 1.25rem;
+    padding-left: 1.25rem;
 }
 
 .menu a{
@@ -66,7 +67,8 @@ body{
     color: #fff;
     border: rgb(138,43,226) 0.125em solid;
     padding: 0.125em 0.5em;
-    margin-left: 0.85em;
+    margin-left: 0.425em;
+    margin-right: 0.425em;
     margin-top: 0.25em;
     border-radius: 0.25em;
     text-shadow: 0 0 0.125em hsl(0 0% 100% / 0.3), 0 0 0.45em currentColor;
@@ -80,25 +82,15 @@ body{
     left: 0;
     width: 100%;
     height: 100%;
-  
 }
-.neon-button::after {
-    content: "";
-    position: absolute;
-    top: 0;
-    bottom: 0;
-    left: 0;
-    right: 0;
-    box-shadow: 0 0 2em 0.5em rgb(138,43,226);
-    opacity: 0;
-    background-color: rgb(138,43,226);
-    z-index: -1;
-    transition: opacity 100ms linear;
-}
+
 .neon-button:hover,
 .neon-button:focus {
     color: #fff;
     text-shadow: none;
+    box-shadow: 0 0 2em 0.5em rgb(138,43,226);
+    background-color: rgb(138,43,226);
+    transition: opacity 100ms linear;
 }
 .neon-button:hover::before,
 .neon-button:focus::before {
