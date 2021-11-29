@@ -51,7 +51,6 @@ body{
 
 .btn-right {
     float: right;
-
 }
 
 .btn-left {
@@ -112,13 +111,13 @@ body{
 
 /* Logo im Menü */
 #logo {
-    float: none;
     position: absolute;
-    top: 50%;
+    top: 45%;
     left: 50%;
     transform: translate(-50%, -50%);
+    height: 100%;
     width: fit-content;
-    height: 105%;
+
 }
 
 /* Hauptseite */
