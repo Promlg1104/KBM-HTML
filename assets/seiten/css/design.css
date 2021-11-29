@@ -121,6 +121,7 @@ body{
     */
 }
 /* GPU Freundlicher */
+/* Q: https://www.fourkitchens.com/blog/article/fix-scrolling-performance-css-will-change-property/ */
 .seite::before {
     content: "";
     position: fixed;

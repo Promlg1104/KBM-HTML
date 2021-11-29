@@ -12,8 +12,10 @@
     color: #232323;
     padding: .5px;
     border-radius: 4px;
+    text-decoration: none;
 }
 
+#down-btn:hover,
 #up-btn:hover {
     background-color: #232323;
     cursor: pointer;
@@ -21,8 +23,21 @@
     transition: all 0.75s;
 }
 
-#down-button {
+#down-btn {
     color: #121212;
+    background-color: #808080;
+    text-align: center;
+    position: absolute;
+    left: 50%;
+    top: 95%;
+    transform: translate(-50%, -50%);
+    max-width: 75px;
+    width: 100%;
+    font-size: 1.3rem;
+    padding: .5px;
+    border-radius: 4px;
+    text-decoration: none;
+   
 }
 
 #content {
@@ -32,12 +47,13 @@
     position: absolute;
     top: 100%;
     left: 0;
-    right: 0;
-    
     background-color: #121212;
 }
 
-#down {
-    z-index: 1;
-    position: relative;
+.headline {
+    text-align: center;
+    position: absolute;
+    left: 50%;
+    top: 8rem;
+    transform: translate(-50%, -50%);
 }
