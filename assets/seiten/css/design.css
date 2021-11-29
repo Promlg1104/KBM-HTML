@@ -120,6 +120,7 @@ body{
     transition: .4s ease;
     background-image: url(../../bilder/background.png);
     background-size: 100%;
+    background-repeat: no-repeat;
     background-attachment: fixed;
 }
 
