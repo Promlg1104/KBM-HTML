@@ -6,21 +6,6 @@
         <link rel="stylesheet" type="text/css" href="./assets/seiten/css/design.css"/>
         <link rel="stylesheet" type="text/css" href="./assets/seiten/css/index.css"/>
         <link rel="icon" type="image/png" href="./assets/bilder/Logo.png">
-        <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
-        <script>
-            $(document).ready(function() {
-                var scroll_position = 0;
-                $(".seite").scroll(function() {
-                    scroll_position = $(this).scrollTop();
-                    if (scroll_position > 20) {
-                        $(".menu").css("background-color", "#121212");
-                    } else {
-                        $(".menu").css("background-color", "transparent");
-                    }
-                    console.log(scroll_position)
-                });
-            });
-        </script>
     </head>
     <body>
         <!-- Menü -->
