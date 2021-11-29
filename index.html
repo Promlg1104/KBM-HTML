@@ -6,10 +6,25 @@
         <link rel="stylesheet" type="text/css" href="./assets/seiten/css/design.css"/>
         <link rel="stylesheet" type="text/css" href="./assets/seiten/css/index.css"/>
         <link rel="icon" type="image/png" href="./assets/bilder/Logo.png">
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+        <script>
+            $(document).ready(function() {
+                var scroll_position = 0;
+                $(".seite").scroll(function() {
+                    scroll_position = $(this).scrollTop();
+                    if (scroll_position > 20) {
+                        $(".menu").css("background-color", "#121212");
+                    } else {
+                        $(".menu").css("background-color", "transparent");
+                    }
+                    console.log(scroll_position)
+                });
+            });
+        </script>
     </head>
     <body>
         <!-- Menü -->
-        <div class="menu">
+        <div id="menu" class="menu">
             <div class="btn-left">
                 <a class="neon-button " href="./assets/seiten/shop.html"><br>Shop<br></a>
                 <a class="neon-button " href="./assets/seiten/b-waren.html"><br>B-Waren<br></a>
@@ -38,13 +53,11 @@
                 </section>
             </div>
             <!-- Hauptseite -->
-
             <!-- On Top Knopf -->
             <a id="up-btn" href="#top">Nach Oben</a>
-
             <!-- Scroll Down Knopf-->
             <a id="down-btn" href="#content"><img src="./assets/bilder/arrow_down.png"></a>
-
+            <!-- Hauptseiten Content (Text, Bilder, Verknüpfungen,...)-->
             <div id="content">
                 <h1>- Überschrift -</h1>
             </div>

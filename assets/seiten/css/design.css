@@ -28,15 +28,14 @@ body{
     position: fixed;
     top: 0;
     width: 100%;
-    height: 8rem;
-    background: transparent;
+    height: 7rem;
     padding-right: 1.25rem;
     padding-left: 1.25rem;
 }
 
 .menu a{
     float: left;
-    height: 50%;
+    height: 60%;
     display: block;
     color: #f2f2f2;
     text-align: center;
@@ -108,9 +107,8 @@ body{
     top: 45%;
     left: 50%;
     transform: translate(-50%, -50%);
-    height: 100%;
+    height: 105%;
     width: fit-content;
-
 }
 
 /* Hauptseite */
