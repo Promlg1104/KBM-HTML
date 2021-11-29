@@ -119,7 +119,8 @@ body{
     padding: 80px 20px;
     transition: .4s ease;
     background-image: url(../../bilder/background.png);
-    background-size: 100%;    
+    background-size: 100%;
+    background-attachment: fixed;
 }
 
 /* Animierte Sterne */
