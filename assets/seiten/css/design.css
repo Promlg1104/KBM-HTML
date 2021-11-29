@@ -108,14 +108,32 @@ body{
 /* Hauptseite */
 .seite {
     overflow: hidden;
+    
     width: 100%;
     height: 100%;
     padding: 80px 20px;
     transition: .4s ease;
     background-image: url(../../bilder/background.png);
     background-size: 100%;
-    background-repeat: no-repeat;
+    /* Nicht Ressourcen Schonend. > Laggs
     background-attachment: fixed;
+    background-size: cover;
+    */
+}
+/* GPU Freundlicher */
+.seite::before {
+    content: "";
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    background-color: #121212;
+    background: url(../../bilder/background.png) no-repeat center center;
+    background-size: cover;
+    will-change: transform;
+    z-index: -1;
+
 }
 
 /* Animierte Sterne */
