@@ -71,6 +71,7 @@ body{
     margin-right: 0.425em;
     margin-top: 0.25em;
     border-radius: 0.25em;
+    width: 7rem;
     text-shadow: 0 0 0.125em hsl(0 0% 100% / 0.3), 0 0 0.45em currentColor;
     box-shadow: inset 0 0 0.5em 0 rgb(138,43,226), 0 0 0.5em 0 rgb(138,43,226);
 }
