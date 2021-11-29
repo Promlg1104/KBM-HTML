@@ -113,9 +113,9 @@ body{
     height: 100%;
     padding: 80px 20px;
     transition: .4s ease;
+    /* Nicht Ressourcen Schonend. > Laggs
     background-image: url(../../bilder/background.png);
     background-size: 100%;
-    /* Nicht Ressourcen Schonend. > Laggs
     background-attachment: fixed;
     background-size: cover;
     */
