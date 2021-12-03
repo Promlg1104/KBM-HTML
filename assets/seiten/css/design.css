@@ -289,5 +289,60 @@ body{
     padding: 30px 0;
 }
 
+/* Footer */
+.footer {
+    background: #444;
+    box-shadow: 0 1px 1px 0 rgba(0, 0, 0, 0.12);
+    margin-left: 2.5%;
+    margin-right: 2.5%;
+    margin-top: 80%;
+    width: 95%;
+    text-align: center;
+    border-radius: 1em;
+}
 
-/* An hier Mika */
+.ft-links a {
+    text-align: center;
+    font: bold 1.2em;
+    text-decoration: none;
+    display: inline-block;
+    width: 8.5rem;
+    height: 35px;
+    cursor: pointer;
+    background-color: #33383b;
+    color: #121212;
+    border-radius: 0.5em;
+    font-size: 1em;
+    margin-top: 0.5em;
+}
+
+.ft-links a:hover {
+    color: #33383b;
+    background-color: #121212;
+    font-size: 1.15em;
+    text-decoration: underline;
+    transition: ease-in-out all 0.2s;
+}
+
+.ft-icons {
+    margin-top: 1em;
+}
+
+.fa{
+    text-align: center;
+    text-decoration: none;
+    width: 2em;
+    height: 2em;
+    cursor: pointer;
+    background-color: #33383b;
+    border-radius: 2px;
+    font-size: 1.9em;
+    color: #fff;
+}
+.fa:hover{
+    background-color: #121212;
+    transition: ease-in-out all 0.2s;
+}
+
+
+/* Ab hier Mika */
