@@ -1,0 +1,40 @@
+.hdline {
+    text-align: center;
+    color: rgba(200, 200, 200, 0.5);
+    font-size: 200%;
+    margin-top: 2%;
+}
+.item {
+    background-color: rgba(0, 0, 0, 0.12);
+    margin-top: 1%;
+    margin-left: 50%;
+    margin-right: 50%;
+    transform: translate(-50%, -50%);
+    border-radius: 1em;
+    border: 0.05em solid #121212;
+    width: 80%;
+    height: 25%;
+    transition: all 0.5s ease-in;
+}
+.item:hover {
+    transition: all 0.5s ease-in;
+    width: 81%;
+    height: 26%;
+}
+.top {
+    margin-top: 6.5%;
+}
+.shop-img img {
+    margin-left: 1%;
+    border-radius: 1em;
+    border: 0.05em solid #121212;
+    margin-top: 0.5%;
+    margin-bottom: 0.5%;
+    height: 90%;
+    width: 15%;
+}
+.shop-img a {
+    margin-left: 1%;
+    height: 90%;
+    width: 10%;
+}

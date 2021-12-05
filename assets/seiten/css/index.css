@@ -13,8 +13,8 @@
     padding: .5px;
     border-radius: 4px;
     text-decoration: none;
+    transition: all 0.75s;
 }
-
 #down-btn:hover,
 #up-btn:hover {
     background-color: #232323;
@@ -22,8 +22,8 @@
     color: #808080;
     transition: all 0.75s;
 }
-
 #down-btn {
+    transition: all 0.75s;
     color: #121212;
     background-color: #808080;
     text-align: center;
@@ -38,7 +38,6 @@
     border-radius: 4px;
     text-decoration: none;  
 }
-
 #content {
     width: 100%;
     height: 185%;

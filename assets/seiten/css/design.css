@@ -106,7 +106,28 @@ body{
     height: 105%;
     width: fit-content;
 }
-
+#up-btn {
+    position: fixed;
+    text-align: center;
+    bottom: 1.2rem;
+    right: 18.5%;
+    left: 95%;
+    max-width: 75px;
+    width: 100%;
+    font-size: 1.3rem;
+    border: rgb(138,43,226);
+    background-color: #808080;
+    color: #232323;
+    padding: .5px;
+    border-radius: 4px;
+    text-decoration: none;
+}
+#up-btn:hover {
+    background-color: #232323;
+    cursor: pointer;
+    color: #808080;
+    transition: all 0.75s;
+}
 /* Hauptseite */
 .seite {
     overflow: hidden;
