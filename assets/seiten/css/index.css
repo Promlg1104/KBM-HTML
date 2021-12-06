@@ -66,7 +66,7 @@
 .über-uns p, .shop p {
     text-align: left;
     margin-left: 2em;
-    font-size: 1.25em;
+    font-size: 120%;
 }
 .shop {
     width: 65%;
