@@ -15,26 +15,32 @@
     width: 80%;
     height: 25%;
     transition: all 0.5s ease-in;
+    display: flex;
+    align-items: center;
 }
 .item:hover {
     transition: all 0.5s ease-in;
     width: 81%;
     height: 26%;
 }
-.top {
+.top{
     margin-top: 6.5%;
 }
 .shop-img img {
     margin-left: 1%;
     border-radius: 1em;
     border: 0.05em solid #121212;
-    margin-top: 0.5%;
-    margin-bottom: 0.5%;
+    
     height: 90%;
-    width: 15%;
+    width: 90%;
 }
 .shop-img a {
     margin-left: 1%;
     height: 90%;
     width: 10%;
+}
+.item-desc {
+    margin-top: 1%;
+    height: 90%;
+    width: 80%;
 }
