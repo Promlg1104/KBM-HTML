@@ -40,5 +40,8 @@
     width: 10%;
 }
 .item-desc {
-    color: #121212;
+    margin-top: 1%;
+}
+.item-hdline {
+    margin-top: 1%;
 }
