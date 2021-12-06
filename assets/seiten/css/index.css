@@ -25,7 +25,6 @@
 #down-btn {
     transition: all 0.75s;
     color: #121212;
-    background-color: #808080;
     text-align: center;
     position: absolute;
     left: 50%;
@@ -35,8 +34,12 @@
     width: 100%;
     font-size: 1.3rem;
     padding: .5px;
-    border-radius: 4px;
-    text-decoration: none;  
+    border-radius: 1em;
+    text-decoration: none;
+}
+#down-btn img {
+    width: 100%;
+    height: 100%;
 }
 #content {
     width: 100%;
