@@ -1,3 +1,7 @@
+Text Hauptseite 
+
+1 Text :
+
 Bei unserer Firma handelt es sich um ein Online-Shop, welcher nicht nur Neuwaren sondern auch 
 getestete und aufbereitete gebrauchte Ware, zu billigen Prisen anbietet. Wir sind drei Inhaber und 
 haben inzwieschen rund 1000 Mitarbeiter. Neuwaren haben 1 Jahr Garantie und gebrauchte Ware haben 2
@@ -7,3 +11,17 @@ Sie haben:
 - Einen Serviece welcher 24/ 7 erreichbar ist unter der Tel. 0800 7777 
 - 14 Tage Rückaberecht mit kostenlosem Versand
 - Die Garantie, dass alles Gebrauchtwaren zu 100% auf Funktion getestet sind und aufbreitet wurden.
+
+B- Shop:
+Das Besonder bei uns ist der B- Waren Shop.
+Alle Hardware Artikel sind von uns selber aufgekauft und überarbeitet.
+Es wurden Dinge ernauert wie, Wärmeleitpaste, Lüfter, Thermopad und alles wurde Grüdlich gereinigt.
+Dazu gibt es von uns eine 2 Jahre Garantie und natürlich 14 Tage Rückgaberecht.
+
+
+
+
+
+
+FF0090 Beste Farbe 
+#B5b5bd ist unsere Farbe 
