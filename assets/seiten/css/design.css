@@ -33,7 +33,7 @@ body{
     float: left;
     height: 60%;
     display: block;
-    color: #f2f2f2;
+    color: #b5b5bd;
     text-align: center;
     text-decoration: none;
     transition: ease 0.3s;
@@ -42,7 +42,7 @@ body{
     position: fixed;
     top: 25px;
     right: 100px;
-    color: #f2f2f2;
+    color: #b5b5bd;
 }
 
 .btn-right {
@@ -59,7 +59,7 @@ body{
     display: inline-block;
     cursor: pointer;
     text-decoration: none;
-    color: #fff;
+    color: #b5b5bd;
     border: rgb(138,43,226) 0.125em solid;
     padding: 0.125em 0.5em;
     margin-left: 0.425em;
@@ -82,7 +82,7 @@ body{
 
 .neon-button:hover,
 .neon-button:focus {
-    color: #fff;
+    color: #b5b5bd;
     text-shadow: none;
     box-shadow: 0 0 2em 0.5em rgb(138,43,226);
     background-color: rgb(138,43,226);
