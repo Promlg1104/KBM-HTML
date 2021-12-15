@@ -8,6 +8,18 @@
         <link rel="stylesheet" type="text/css" href="./assets/seiten/css/index.css"/>
         <link rel="icon" type="image/png" href="./assets/bilder/Logo.png">
         <link rel="stylesheet" type="text/css" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css"/> <!-- Logo Font -->
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+        <script>
+            $(window).scroll(function() {
+                var scroll = $(window).scrollTop();
+                if (scroll >=150) {
+                    $(".menu").addClass("scrolled");
+                }
+                else {
+                    $(".menu").removeClass("scrolled");
+                }
+            });
+        </script>
     </head>
     <body>
         <!-- Menü -->
@@ -16,7 +28,7 @@
                 <a class="neon-button " href="./assets/seiten/shop.html"><br>Shop<br></a>
                 <a class="neon-button " href="./assets/seiten/b-waren.html"><br>B-Waren<br></a>
             </div>
-            <a href="./index.html"><img id="logo" src="./assets/bilder/Logo.png"></a>
+            <a href="#top"><img id="logo" src="./assets/bilder/Logo.png"></a>
             <div class="btn-right">
                 <a class="neon-button" href="./assets/seiten/services.html">Service<br>Retouren<br>Reparaturen</a>
                 <a class="neon-button" href="./assets/seiten/login.html"><br>Anmelden<br></a>
