@@ -308,6 +308,7 @@ body{
     width: 95%;
     text-align: center;
     border-radius: 1em;
+    overflow: hidden;
 }
 
 .ft-links a {
