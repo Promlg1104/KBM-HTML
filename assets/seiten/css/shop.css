@@ -17,6 +17,8 @@
     transition: all 0.5s ease-in;
     display: flex;
     align-items: center;
+    -webkit-backdrop-filter: blur(5px);
+    backdrop-filter: blur(5px);
 }
 .item:hover {
     transition: all 0.5s ease-in;
