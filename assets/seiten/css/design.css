@@ -28,11 +28,12 @@ body{
     padding-right: 1.25rem;
     padding-left: 1.25rem;
     background: transparent;
+    transition: ease 0.2s;
 }
 
 .menu.scrolled {
-    background: rgb(35,35,35);
-    background: linear-gradient(180deg, rgba(35,35,35,1) 0%, rgba(51,51,51,0.9) 50%, rgba(68,68,68,0.8) 100%);
+    background: #cc66ff;
+    transition: ease 0.2s;
 }
 
 .menu a{
