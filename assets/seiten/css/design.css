@@ -32,7 +32,7 @@ body{
 }
 
 .menu.scrolled {
-    background: #cc66ff;
+    background: #cc66ff;q
     transition: ease 0.2s;
 }
 
@@ -304,7 +304,7 @@ body{
     box-shadow: 0 1px 1px 0 rgba(0, 0, 0, 0.12);
     margin-left: 2.5%;
     margin-right: 2.5%;
-    margin-top: 80%;
+    margin-top: 5%;
     width: 95%;
     text-align: center;
     border-radius: 1em;
