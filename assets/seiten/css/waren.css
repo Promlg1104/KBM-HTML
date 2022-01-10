@@ -5,9 +5,9 @@
     width: 45%;
 }
 .product-name h1 {
-    text-align: center;
-    vertical-align: middle;
-    top: 25%;
+    line-height: 95%;
+    margin-top: 2.5%;
+    margin-bottom: 2.5%;
 }
 .product-img {
     margin-top: 1%;
