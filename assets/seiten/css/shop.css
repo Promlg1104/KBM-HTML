@@ -25,13 +25,12 @@
     width: 81%;
     height: 26%;
 }
-#tp{
+#top-item {
     margin-top: 6.5%;
 }
 .shop-img img {
     margin-left: 1em;
     border-radius: 1em;
-    border: 0.05em solid #121212;
     height: 90%;
     width: 90%;
 }
@@ -42,7 +41,12 @@
 }
 .item-desc {
     margin-top: 1%;
+    color: #b5b5bd;
 }
 .item-hdline {
     margin-top: 1%;
+}
+.item-preis {
+    margin-top: 1%;
+    color: #b5b5bd;
 }

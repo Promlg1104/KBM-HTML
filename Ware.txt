@@ -29,7 +29,6 @@ Maximale RAM Größe 128GB
 Speichertypen: DDR5 4800MT/s; DDR4 3200MT/s
 Speicherkanäle: 2
 Speicherbandbreite: 76,8GB/s
-Prozessorgrafik: Intel UHD Graphics 770 300MHz -1.55GHz
+Prozessorgrafik: Intel UHD Graphics 770; 300MHz up to 1.55GHz
 Video Ausgang: Displayport 1.4, HDMI 2.1
 Maximale Video Auflösung: HDMI 4096x2160@60Hz; DP 7680x4320@60Hz
-
