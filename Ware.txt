@@ -3,7 +3,7 @@ Shop
 https://www.nvidia.com/de-de/geforce/graphics-cards/30-series/rtx-3090/
 Name: Nvidia Geforce RTX 3090 FE
 Preis: 1.549€
-Beschreibung: Gaming Grafikkarte
+Beschreibung: Gaming/Desktop Grafikkarte
 Maximale Auflösung 7680x4320
 Basistaktung 1,4GHz
 Turbo Takt 1,7 GHz
@@ -11,4 +11,25 @@ Speicher 24GB GDDR6X
 Leistungsaufnahme 350W
 PCIe Anschlüsse 2x PCIe 8-polig
 3 Slot; Länge 313mm; Breite 138mm
+
+https://www.intel.de/content/www/de/de/products/sku/134599/intel-core-i912900k-processor-30m-cache-up-to-5-20-ghz/specifications.html
+Name: Intel Core i9-12900K
+Preis: $599
+Beschreibung: Desktop CPU
+Basistaktung 2,40GHz
+Performance-core Turbo 5,10GHz
+Intel Turbo Boost 3.0 5,20GHz
+Cache 30MB Intel Smart Cache
+L1 Cache:
+L2 Cache: 14MB
+L3 Cache: 
+Basis Leistungsaufnahme: 125W
+Maximale Turbo Leistungsaufnahme: 241W
+Maximale RAM Größe 128GB
+Speichertypen: DDR5 4800MT/s; DDR4 3200MT/s
+Speicherkanäle: 2
+Speicherbandbreite: 76,8GB/s
+Prozessorgrafik: Intel UHD Graphics 770 300MHz -1.55GHz
+Video Ausgang: Displayport 1.4, HDMI 2.1
+Maximale Video Auflösung: HDMI 4096x2160@60Hz; DP 7680x4320@60Hz
 
