@@ -81,7 +81,7 @@
     border-radius: 1em;
     border: 0.05em solid #121212;
     color: #b5b5bd;
-    z-index: 99!important;
+    z-index: 101!important;
     font-size: small;
     -webkit-backdrop-filter: blur(5px);
     backdrop-filter: blur(5px);

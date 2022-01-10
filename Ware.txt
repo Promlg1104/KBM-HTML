@@ -1,0 +1,14 @@
+Shop
+
+https://www.nvidia.com/de-de/geforce/graphics-cards/30-series/rtx-3090/
+Name: Nvidia Geforce RTX 3090 FE
+Preis: 1.549€
+Beschreibung: Gaming Grafikkarte
+Maximale Auflösung 7680x4320
+Basistaktung 1,4GHz
+Turbo Takt 1,7 GHz
+Speicher 24GB GDDR6X
+Leistungsaufnahme 350W
+PCIe Anschlüsse 2x PCIe 8-polig
+3 Slot; Länge 313mm; Breite 138mm
+
