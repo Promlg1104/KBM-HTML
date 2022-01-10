@@ -1,12 +1,15 @@
 Klein 1
+https://www.techpowerup.com/gpu-specs/geforce-rtx-2070.c3252
+
 Name: Nvidia RTX 2070 8GB
 Description : Gaming Grafikkarte mit 8GB Ram DDR6
-Preis : 
+Preis : 700 €
 
 Klein 2
-Name:
-Description :
-Preis :
+Name: I9 9900k 3,6ghz 8 Core
+Description : Performence Cpu für deinen PC.
+Intel Core i9 9900K (9e Gen)
+Preis : 500 €
 
 Klein 3
 Name:
@@ -14,5 +17,50 @@ Description :
 Preis :
 
 Groß 1
+Name : Nvidia RTX 2070 8GB
+Beschreibung: Die RTX 2070 8Gb ist im Prei-Leistungsvergleich die Top Gaming Karte mit ihren 8GB DDR6 und ihrm Boost Clock von 1620 MHz ist sie gut geeignet für Ihren Gaming PC.
+
+Specs: 
+Clock Speeds:
+Base Clock
+1410 MHz
+Boost Clock
+1620 MHz
+Memory Clock
+1750 MHz
+14 Gbps effective
+
+Board Design :
+Slot Width
+Dual-slot
+Length
+229 mm
+9 inches
+Width
+113 mm
+4.4 inches
+Height
+35 mm
+1.4 inches
+TDP
+175 W
+Suggested PSU
+450 W
+Outputs
+1x DVI
+1x HDMI
+2x DisplayPort
+1x USB Type-C
+Power Connectors
+1x 8-pin
+Board Number
+PG160 SKU 52
+
+
+
+
 Groß 2
+Name : I9 9900k 3,6 ghz 8 Core
+Beschreibung: Der Intel i9-9900K ist eine gute Wahl für PC-Anwender, die einen enorm leistungsstarken Prozessor suchen. Das gilt vor allem für anspruchsvolle Gaming-Fans. Mit sehr hohen Taktraten, 8 echten Kernen und Hyper Threading sollte sich der Chip besonders gut für Multitasking eignen.
+
 Groß 3
