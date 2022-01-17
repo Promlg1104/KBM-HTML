@@ -10,7 +10,7 @@
 }
 .product-img {
     margin-top: 1%;
-    height: 60%;
+    height: 80%;
     width: 100%;
 }
 .product-img img {
@@ -20,7 +20,7 @@
 .product-desc {
     float: right;
     width: 90%;
-    height: 71%;
+    height: 91%;
     margin-top: 5%;
 }
 .placeholder {
@@ -31,13 +31,15 @@
     display: inline-flex;
 }
 .buy {
-    width: 90%;
+    bottom: 10%;
+    width: 95%;
     height: 15%;
     background: linear-gradient(-5deg, hsl(86, 61%, 44%), hsl(86, 65%, 54%));
     color: #121212;
 }
-
-
+.buy h1 {
+    color: #121212;
+}
 .product-img, .product-name, .product-desc, .buy {
     overflow: hidden;
     background-color: rgba(0, 0, 0, 0.12);
