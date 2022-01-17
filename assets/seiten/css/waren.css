@@ -1,8 +1,7 @@
 .product-name {
     margin-top: 5%;
-    margin-right: 5%;
     height: 10%;
-    width: 45%;
+    width: 100%;
 }
 .product-name h1 {
     line-height: 95%;
@@ -11,19 +10,26 @@
 }
 .product-img {
     margin-top: 1%;
-    margin-right: 5%;
     height: 60%;
-    width: 45%;
+    width: 100%;
 }
 .product-img img {
     width: 100%;
     height: fit-content;
 }
-
-.product-img, .product-name{
+.product-desc {
+    float: right;
+    width: 100%;
+    margin-top: 5%;
+}
+.seite {
+    display: inline-flex;
+}
+.product-img, .product-name, .product-desc{
     overflow: hidden;
     background-color: rgba(0, 0, 0, 0.12);
     margin-right: 2.5%;
+    margin-left: 2.5%;
     text-align: center;
     border-radius: 1em;
     border: 0.05em solid #121212;
