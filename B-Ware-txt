@@ -6,15 +6,17 @@ Description : Gaming Grafikkarte mit 8GB Ram DDR6
 Preis : 700 €
 
 Klein 2
+https://www.mindfactory.de/product_info.php/Intel-Core-i9-12900K-16--8-8--3-20GHz-So-1700-WOF_1429030.html
+
 Name: I9 9900k 3,6ghz 8 Core
 Description : Performence Cpu für deinen PC.
 Intel Core i9 9900K (9e Gen)
 Preis : 500 €
 
 Klein 3
-Name:
+Name:ASRock B550M Steel Legend AMD B550 So.AM4 Dual Channel
 Description :
-Preis :
+Preis : 65 €
 
 Groß 1
 Name : Nvidia RTX 2070 8GB
@@ -62,5 +64,26 @@ PG160 SKU 52
 Groß 2
 Name : I9 9900k 3,6 ghz 8 Core
 Beschreibung: Der Intel i9-9900K ist eine gute Wahl für PC-Anwender, die einen enorm leistungsstarken Prozessor suchen. Das gilt vor allem für anspruchsvolle Gaming-Fans. Mit sehr hohen Taktraten, 8 echten Kernen und Hyper Threading sollte sich der Chip besonders gut für Multitasking eignen.
+
+Daten:
+
+Allgemein:
+Prozessor Serie:	Core i9
+Prozessor Modell:	12900K
+Codename:	Alder Lake-S
+Anzahl der CPU Kerne:	16 (8+8)
+Prozessortakt:	3.20GHz
+Max. Turbotakt:	5.20GHz
+Sockel:	So.1700
+Fertigungsprozess:	10nm
+TDP:	125W
+DMI Takt:	16.0GT/s
+L2 Cache:	14MB
+L3 Cache:	30MB
+Integrierte Grafik:	Intel UHD Graphics 770
+Besonderheiten:	Freier Multiplikator, HyperThreading, wird ohne Kühler geliefert
+Verpackungsart des Prozessors:	WOF
+Anzahl der Threads:	24 (16+8)
+
 
 Groß 3
